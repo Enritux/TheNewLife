@@ -46,27 +46,6 @@
 	    <pos x="4712.60" z="9992.17" a="180.0" />
 	</event>
 
-	<!-- INICIA BASE WAR MACHINE -->
-	<event name="StaticWoodenLog">
-	    <pos x="868.5" z="15292" a="180.0" />
-	</event>
-
-	 <event name="StaticWoodenPlank">
-        <pos x="850.9" z="15298.4" a="180.0" />
-    </event>
-    <!-- FIN BASE WAR MACHINE -->
-
-    	<!-- INICIA BASE AMARILLOS -->
-	<event name="StaticWoodenLog1">
-	    <pos x="5746.2" z="8693.1" a="0" />
-	</event>
-
-	 <event name="StaticWoodenPlank1">
-        <pos x="5751.2" z="8708.1" a="0" />
-    </event>
-    <!-- FIN BASE WAR MACHINE -->
-
-
     
     <event name="StaticBuildingLAND_WRECK_C130J">
 		<pos x="2337.53" z="11110.00" a="0.000000" />
